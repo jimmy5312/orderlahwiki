@@ -3,7 +3,7 @@
 
 # Header
 Related:
-Order Page - https://docs.google.com/document/d/15ZAMvUBNZhttuhD2kN9or24HJRqAmr7huRSxkotEZGQ/edit?usp=sharing
+Order Page - https://orderlahwiki.herokuapp.com/order-page
 
 
 
