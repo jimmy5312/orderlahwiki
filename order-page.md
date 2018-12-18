@@ -7,18 +7,18 @@ Related:
 Home Page - https://orderlahwiki.herokuapp.com/edit/home-page
 , Main Page, Firebase Listeners
 
-	Introduction
+# Introduction
 This is part of the main content page located at root of website, at /
 All the main Firebase listener is applicable to this page as well
 
-Entry Point
+# Entry Point
 base_url/{table_id}/category
 This is the EXACT path of the page
 User can easily navigate to this page by scanning QR code on table
 Navigate from /home after using QR scanner embedded in the page
 (Admin only) Navigate from /table and select the table to place orders
 
-	How To Use
+# How To Use
 User select the Category of food to order, to be redirected to the item listing page
 
 
