@@ -1,5 +1,5 @@
 <!-- TITLE: Order Page -->
-<!-- SUBTITLE: A quick summary of Order Page -->
+<!-- SUBTITLE: Page where user browse the menu and places order -->
 
 # Header
 
